@@ -1,10 +1,11 @@
-## Hi there 👋
+## Hello there, I'm Dario 👋
+I'm a Computer Science student at Newcastle University who loves to create tools that allow individuals and organizations to facilitate their services to the public 🤓.
+
+(I'm also a bit of a callisthenics enthusiast🤸‍♂️)
+
+- 🔭 I’m currently working on a Full-Stack website to leverage my skills into a tangible site
 
 <!--
-**darioLabrador/darioLabrador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
