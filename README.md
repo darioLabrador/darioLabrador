@@ -3,7 +3,14 @@ I'm a Computer Science student at **Newcastle University** who loves to create t
 
 (I'm also a bit of a callisthenics enthusiast🤸‍♂️)
 
-- 🔭 I’m currently working on a **Full-Stack** website to leverage my skills into a tangible site
+Add me on [LinkedIn](https://www.linkedin.com/in/dario-labrador-alonso-a20076243/)
+
+<details>
+  <summary> Achievements 🌟</summary>
+  - 🔭 I’m currently working on a **Full-Stack** website to leverage my skills into a tangible site  
+</details>
+
+
 
 <!--
 - 🔭 I’m currently working on ...
