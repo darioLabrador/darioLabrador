@@ -5,6 +5,9 @@ I'm a Computer Science student at **Newcastle University** who loves to create t
 
 Add me on [LinkedIn](https://www.linkedin.com/in/dario-labrador-alonso-a20076243/)
 
+<!--![Dario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darioLabrador&show_icons=true&theme=transparent) -->
+
+
 <details>
   <summary> Achievements 🌟</summary>
   - 🔭 I’m currently working on a **Full-Stack** website to leverage my skills into a tangible site  
