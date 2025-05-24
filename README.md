@@ -1,5 +1,5 @@
 ## Hello there, I'm Dario 👋
-I'm a Computer Science student at **Newcastle University** who loves to create tools that allow individuals and organizations to facilitate their services to the public 🤓.
+I'm a **Computer Science** student at **Newcastle University** who creates tools for individuals and organizations to facilitate their services to the public 🤓.
 
 (I'm also a bit of a calisthenics enthusiast🤸‍♂️)
 
