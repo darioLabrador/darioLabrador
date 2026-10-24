@@ -1,8 +1,6 @@
 ## Hello there, I'm Dario 👋
-I'm a **Computer Science** student at **Newcastle University** who creates tools that help people 🤓
+I'm a **Graduate Data Engineer** student at **Serios Group**. I studied Computer Science at Newcastle University, and try to learn more about Data and AI everyday.  
 
-(I'm also a bit of a calisthenics enthusiast🤸‍♂️)
+(I'm also an undefeated heavy weight boxer - only competed once though...)
 
 Add me on [LinkedIn](https://www.linkedin.com/in/dario-labrador-alonso-a20076243/) 🙋‍♂️ 
-
-In case you don't think I'm cool check out my portfolio 👉: https://online-portfolio-smoky.vercel.app
